@@ -41,7 +41,7 @@ The dataset includes the following columns:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/CX-metrics-analysis.git
+git clone https://github.com/yourusername/yemeksepeti-cx-analysis.git
 
 2. Install the required Python libraries:
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 3. Open the Jupyter notebook and run the analysis:
 
-jupyter notebook CX_metrics_analysis.ipynb
+jupyter notebook yemeksepeti-cx-analysis.ipynb
 
 # Recommendations
 Based on the analysis, several recommendations are provided to enhance the customer experience, particularly through the self-service channel. These include optimizing popular kitchen offerings, improving seamless order processes, and enhancing the self-service experience to increase customer satisfaction.
