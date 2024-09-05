@@ -32,7 +32,7 @@ The dataset includes the following columns:
 
 # Project Structure
 
-* CX_metrics_analysis.ipynb: The Jupyter notebook containing the Python code used for data analysis and visualization.
+* yemeksepeti_cx_analysis.ipynb: The Jupyter notebook containing the Python code used for data analysis and visualization.
 * data/: Directory containing the dataset used in this analysis.
 * images/: Directory containing any visualizations generated during the analysis.
 * README.md: This file.
